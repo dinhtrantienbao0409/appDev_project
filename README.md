@@ -43,3 +43,6 @@ Next, we will connect to remote repository on github
 ```sh
 git remote add origin https://github.com/dinhtrantienbao0409/appDev_project.git
 ```
+Next, we will push our code on Remote repo
+```sh
+git push -u origin master
